@@ -1,2 +1,2 @@
-# visual-json
+# Visual JSON
 Visual Editor for JSON
